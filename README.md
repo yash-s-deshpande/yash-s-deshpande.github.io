@@ -1,3 +1,2 @@
-# yash-s-deshpande.github.io
-
-This is my website
+# Yash Deshpande
+Economics and Data Science at the University of Wisconsin - Madison
